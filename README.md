@@ -11,6 +11,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming puns. Here's one: Without my glasses and dark mode, I cannot C#.
 
+![GitHub User's stars](https://img.shields.io/github/stars/Andrew-FungKinHo?logo=github&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXrPXVG6btGImU_1H5iAMZQ?logo=youtube&style=for-the-badge)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][youtube]
