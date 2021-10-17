@@ -4,7 +4,7 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-FungKinHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## I'm a Developer, Content Creator and Teacher!!
+## I'm a Developer, YouTube Content Creator and Tutor!!
 
 - 🌱 I’m currently learning everything 🤓
 - 👯 I’m looking to collaborate with other content creators
@@ -31,8 +31,8 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][jsplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][jsplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevelopmentplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevelopmentplaylist]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][pythonplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][pythonplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][pythonplaylist]
@@ -59,4 +59,5 @@
 [skillshare]: https://skillshare.com/user/andrewfung
 
 [pythonplaylist]: https://youtube.com/playlist?list=PLR8GQrwPTwEp1JqCcvTFffGMhc6A3g8kw
-[jsplaylist]: https://youtube.com/playlist?list=PLR8GQrwPTwEqIcGalzduuw8mJOuu10kpD
+[jsplaylist]: https://youtube.com/playlist?list=PLR8GQrwPTwEqtggixiTesXXRf3qYKzceY
+[webdevelopmentplaylist]: https://youtube.com/playlist?list=PLR8GQrwPTwEqIcGalzduuw8mJOuu10kpD
