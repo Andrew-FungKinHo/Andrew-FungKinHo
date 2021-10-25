@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Schedule CronJobs to Send Email Notifications — Python Task Automation with CronJobs (part 2)](https://www.youtube.com/watch?v=vscDphDAcQM)
 - [How to Automate Web Scraping Task with BeautifulSoup — Python Task Automation with CronJobs (part 1)](https://www.youtube.com/watch?v=Z4OBn83Rmj8)
 - [Create a Simple Programming Joke Generator that look like a Tweet -with HTML, CSS and Javascript](https://www.youtube.com/watch?v=RpFI0kSwlYI)
 - [How to build a Discord Bot to track Crypto Prices and keep running for 24/7 (part 3) --- with Python](https://www.youtube.com/watch?v=A5rPJV_KFWw)
 - [How to build a Discord Bot to set and track Multiple Crypto Price Targets (part 2) --- with Python](https://www.youtube.com/watch?v=s8jKvWC04r8)
-- [How to build a Discord Bot to track Crypto Prices 24/7 and set Price Alerts (part 1) --- with Python](https://www.youtube.com/watch?v=jjDzozUwjXc)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/AndrewFungKinHo
