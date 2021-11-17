@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Trial and Error &lpar;Ep.1&rpar;: Python Indentation Errors and how to deal with them #Shorts](https://www.youtube.com/watch?v=efTT5T85IiE)
 - [How to Schedule CronJobs to Send Email Notifications — Python Task Automation with CronJobs &lpar;part 2&rpar;](https://www.youtube.com/watch?v=vscDphDAcQM)
 - [How to Automate Web Scraping Task with BeautifulSoup — Python Task Automation with CronJobs &lpar;part 1&rpar;](https://www.youtube.com/watch?v=Z4OBn83Rmj8)
 - [Create a Simple Programming Joke Generator that look like a Tweet -with HTML, CSS and Javascript](https://www.youtube.com/watch?v=RpFI0kSwlYI)
 - [How to build a Discord Bot to track Crypto Prices and keep running for 24/7 &lpar;part 3&rpar; --- with Python](https://www.youtube.com/watch?v=A5rPJV_KFWw)
-- [How to build a Discord Bot to set and track Multiple Crypto Price Targets &lpar;part 2&rpar; --- with Python](https://www.youtube.com/watch?v=s8jKvWC04r8)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/AndrewFungKinHo
