@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Trial and Error &lpar;Ep.2&rpar;: Python Import Error from Saving Filename same as Python Module Name #Shorts](https://www.youtube.com/watch?v=tE28XAz4pP0)
 - [Cathay Pass — Flutter App Showcase for Cathay Hackathon 2021 #Shorts](https://www.youtube.com/watch?v=29qyAVPVVaU)
 - [Trial and Error &lpar;Ep.1&rpar;: Python Indentation Errors and how to deal with them #Shorts](https://www.youtube.com/watch?v=efTT5T85IiE)
 - [How to Schedule CronJobs to Send Email Notifications — Python Task Automation with CronJobs &lpar;part 2&rpar;](https://www.youtube.com/watch?v=vscDphDAcQM)
 - [How to Automate Web Scraping Task with BeautifulSoup — Python Task Automation with CronJobs &lpar;part 1&rpar;](https://www.youtube.com/watch?v=Z4OBn83Rmj8)
-- [Create a Simple Programming Joke Generator that look like a Tweet -with HTML, CSS and Javascript](https://www.youtube.com/watch?v=RpFI0kSwlYI)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/AndrewFungKinHo
