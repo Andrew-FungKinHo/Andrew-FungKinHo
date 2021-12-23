@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][youtube]
+[<img align="left" alt="Andrew Fung | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal website]
 
 [<img align="left" alt="Andrew Fung | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -53,7 +53,7 @@
 - [How to Schedule CronJobs to Send Email Notifications — Python Task Automation with CronJobs &lpar;part 2&rpar;](https://www.youtube.com/watch?v=vscDphDAcQM)
 - [How to Automate Web Scraping Task with BeautifulSoup — Python Task Automation with CronJobs &lpar;part 1&rpar;](https://www.youtube.com/watch?v=Z4OBn83Rmj8)
 <!-- YOUTUBE:END -->
-
+[personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
 [linkedin]: https://linkedin.com/in/andrew-fung-060456178/
 [skillshare]: https://skillshare.com/user/andrewfung
