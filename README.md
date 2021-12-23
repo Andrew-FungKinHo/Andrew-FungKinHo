@@ -22,8 +22,9 @@
 
 [<img align="left" alt="Andrew Fung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="AndrewFung | SkillShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />][skillshare]
+[<img align="left" alt="AndrewFung | SkillShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[<img align="left" alt="AndrewFung | SkillShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />][skillshare]
 
 <br />
 
@@ -56,6 +57,7 @@
 [personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
 [linkedin]: https://linkedin.com/in/andrew-fung-060456178/
+[twitter]: https://twitter.com/AndrewFungKinHo
 [skillshare]: https://skillshare.com/user/andrewfung
 
 [pythonplaylist]: https://youtube.com/playlist?list=PLR8GQrwPTwEp1JqCcvTFffGMhc6A3g8kw
