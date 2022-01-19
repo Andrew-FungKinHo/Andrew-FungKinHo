@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Finding the Most Profitable Keywords by Plotting Competitor Analysis Graphs — with Python Streamlit](https://www.youtube.com/watch?v=3YVUe6uGieI)
 - [Flutter Augmented Reality &lpar;AR&rpar; E-payment App Demo with Unity, ARKit and Firebase #Shorts](https://www.youtube.com/watch?v=tiMzonpjZa8)
 - [How to build an Interactive Ad-scraping Keyword Analysis Web App with Streamlit Python &amp; ScraperAPI](https://www.youtube.com/watch?v=yb1OF33pNTQ)
 - [Targeted Keyword and Competitor Analysis with Google Ads — Python Web Scraping Task Automation](https://www.youtube.com/watch?v=DXju-2RF4jw)
 - [Trial and Error &lpar;Ep.2&rpar;: Python Import Error from Saving Filename same as Python Module Name #Shorts](https://www.youtube.com/watch?v=tE28XAz4pP0)
-- [Cathay Pass — Flutter App Showcase for Cathay Hackathon 2021 #Shorts](https://www.youtube.com/watch?v=29qyAVPVVaU)
 <!-- YOUTUBE:END -->
 [personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
