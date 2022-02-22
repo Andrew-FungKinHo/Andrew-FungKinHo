@@ -13,6 +13,8 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Andrew-FungKinHo?logo=github&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXrPXVG6btGImU_1H5iAMZQ?logo=youtube&style=for-the-badge)
+<br>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Andrew-FungKinHo&style=flat-square)
 
 ### Connect with me:
 
