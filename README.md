@@ -50,11 +50,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build and deploy a simple bot — Creating a CRM distribution Telegram bot with Notion API &lpar;EP.1&rpar;](https://www.youtube.com/watch?v=sfCkKnBhULs)
 - [Build a Simple Tic Tac Toe AI Game with HTML, CSS &amp; JavaScript](https://www.youtube.com/watch?v=dcNcuPToXn4)
 - [Market News Digest System with NLP Abstractive Summarization and Explainable AI &lpar;Final Year Project&rpar;](https://www.youtube.com/watch?v=wJDb7UxT6mQ)
 - [Flutter Mental Health App Showcase — with Cognitive Behavioural Therapy &amp; Emotion Detection features](https://www.youtube.com/watch?v=WAln2CWMFvs)
 - [React Animated Ranking Table from API data — Realtime Crypto Changes with FramerMotion &amp; TailwindCSS](https://www.youtube.com/watch?v=3TEiC8F8I5g)
-- [Finding the Most Profitable Keywords by Plotting Competitor Analysis Graphs — with Python Streamlit](https://www.youtube.com/watch?v=3YVUe6uGieI)
 <!-- YOUTUBE:END -->
 [personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
