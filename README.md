@@ -50,11 +50,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sending documents and updating customer status — Creating a CRM Telegram bot with Notion API &lpar;EP.4&rpar;](https://www.youtube.com/watch?v=xuxtnFG9CxQ)
 - [User authentication and customized messages — Creating a CRM Telegram bot with Notion API &lpar;EP.3&rpar;](https://www.youtube.com/watch?v=un30EJ9NVsA)
 - [Set webhook and message handlers — Creating a CRM distribution Telegram bot with Notion API &lpar;EP.2&rpar;](https://www.youtube.com/watch?v=HsugJwBuH-Q)
 - [Build and deploy a simple bot — Creating a CRM distribution Telegram bot with Notion API &lpar;EP.1&rpar;](https://www.youtube.com/watch?v=sfCkKnBhULs)
 - [Build a Simple Tic Tac Toe AI Game with HTML, CSS &amp; JavaScript](https://www.youtube.com/watch?v=dcNcuPToXn4)
-- [Market News Digest System with NLP Abstractive Summarization and Explainable AI &lpar;Final Year Project&rpar;](https://www.youtube.com/watch?v=wJDb7UxT6mQ)
 <!-- YOUTUBE:END -->
 [personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
