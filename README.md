@@ -1,7 +1,7 @@
 ## Hi there, I'm Andrew Fung 👋
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-FungKinHo&show_icons=true&theme=gruvbox_light)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-FungKinHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Andrew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Andrew-FungKinHo&show_icons=true&theme=gruvbox_light)
+[![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andrew-FungKinHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## I'm a Developer, YouTube Content Creator and Tutor!!
