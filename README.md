@@ -50,11 +50,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Can Python Facial Recognition Prove Silver Medalists Are Less Happy Than Bronze? You’ll Be Surprised](https://www.youtube.com/watch?v=H3hXA1p8Y24)
 - [Unlock the Power of ChatGPT: 8 Proven Ways to Boost Your Productivity as a Developer](https://www.youtube.com/watch?v=Zu3UDYR36ms)
 - [Sending documents and updating customer status — Creating a CRM Telegram bot with Notion API &lpar;EP.4&rpar;](https://www.youtube.com/watch?v=xuxtnFG9CxQ)
 - [User authentication and customized messages — Creating a CRM Telegram bot with Notion API &lpar;EP.3&rpar;](https://www.youtube.com/watch?v=un30EJ9NVsA)
 - [Set webhook and message handlers — Creating a CRM distribution Telegram bot with Notion API &lpar;EP.2&rpar;](https://www.youtube.com/watch?v=HsugJwBuH-Q)
-- [Build and deploy a simple bot — Creating a CRM distribution Telegram bot with Notion API &lpar;EP.1&rpar;](https://www.youtube.com/watch?v=sfCkKnBhULs)
 <!-- YOUTUBE:END -->
 [personal website]: https://andrew-fungkinho.github.io
 [youtube]: https://youtube.com/AndrewFungKinHo
